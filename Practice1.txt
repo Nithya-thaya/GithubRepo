@@ -1,1 +1,3 @@
 //add into new branch
+
+git push --set-upstream GithubRepo branch1
