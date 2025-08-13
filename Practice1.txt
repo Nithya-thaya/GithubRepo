@@ -1,11 +1,2 @@
-<<<<<<< HEAD
-//add into new branch
-
-git push --set-upstream GithubRepo branch1
-=======
-//add into new branch 
-
-
 added new lines
 Modified file & need to merge into main 
->>>>>>> c7b274c008da0a6e2dc3c99cbfae6076757b738e
